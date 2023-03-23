@@ -3,13 +3,10 @@ Módulo 4 - Ajudando o Resilia
 
 Existem outras entidades além dessas três? R: Sim, professores.
 
-Quais são os principais campos e tipos?
+Quais são os principais campos e tipos? R: Id, Nome. INT e CHAR.
 
-Id, Nome. INT e CHAR.
+Como essas entidades estão relacionadas? R: 1 para 1.
 
-Como essas entidades estão relacionadas?
-
-1 para 1.
 
 # Diagrama
 
