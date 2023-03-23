@@ -13,6 +13,7 @@ Como essas entidades estão relacionadas?
 
 # Diagrama
 
-![Diagrama](https://user-images.githubusercontent.com/117126406/227303032-53d96848-d72b-439e-8c24-19c7824824c8.png)
+![Diagrama](https://user-images.githubusercontent.com/117126406/227304285-990c6b39-e57b-4a1e-88df-b91d07dc5477.png)
+
 
 ®Robson Azevedo®
